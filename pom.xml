@@ -14,7 +14,7 @@
     <name>TMS</name>
     <description>TMS</description>
     <properties>
-        <java.version>18</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
